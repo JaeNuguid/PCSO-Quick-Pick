@@ -1,4 +1,7 @@
 # PCSO Lottery Quick Pick
+<a href="https://github.com/JaeNuguid">
+  <img src="https://github.com/JaeNuguid/PCSO-Quick-Pick/blob/master/app/src/main/res/drawable/ic_logo.png?raw=true" width="250" height="250"/>
+</a>
 There is no joint venture, association, partnership, employment or agency relationship exists between this app (PCSO Quick Pick) and Philippine Charity Sweepstakes Office.
 
 PCSO Quick Pick does NOT store and/or analyze any previous winning numbers of any PCSO Lotto games. It also does NOT predict future winning combination. You can think of it as just like PCSO Lotto "Lucky Pick" number generator, but it allows you too generate as many times as you want.

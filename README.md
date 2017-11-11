@@ -1,7 +1,13 @@
 # PCSO Lottery Quick Pick
+<center>
 <a href="https://github.com/JaeNuguid">
   <img src="https://github.com/JaeNuguid/PCSO-Quick-Pick/blob/master/app/src/main/res/drawable/ic_logo.png?raw=true" width="250" height="250"/>
+  <br>
 </a>
+  <a href="https://github.com/JaeNuguid/PCSO-Quick-Pick/releases/download/v1/PCSO.Lottery.Quick.Pick.apk">
+  <img src="https://image.ibb.co/bTPq3G/pcso.png"/>
+</a>
+  </center>
 <br>
 There is no joint venture, association, partnership, employment or agency relationship exists between this app (PCSO Quick Pick) and Philippine Charity Sweepstakes Office.
 <br>

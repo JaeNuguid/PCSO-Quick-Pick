@@ -10,7 +10,7 @@
   </center>
 <br>
 There is no joint venture, association, partnership, employment or agency relationship exists between this app (PCSO Quick Pick) and Philippine Charity Sweepstakes Office.
-<br><br>
+<br><br>PCSO lotto games 6/42, 6/45, 6/49, 6/55, and 6/58<br><br>
 PCSO Quick Pick does NOT store and/or analyze any previous winning numbers of any PCSO Lotto games. It also does NOT predict future winning combination. You can think of it as just like PCSO Lotto "Lucky Pick" number generator, but it allows you to generate as many times as you want.
 <br><br>
 PCSO Quick Pick does not gaurantee a 100% winning combination. This app will just provide you with combinations that are random, yet with increased chances of winning, use it at your own descrition.

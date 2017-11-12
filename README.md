@@ -19,6 +19,7 @@ What do you mean by "increased chances"?
 As you may already know, lottery is all about "probability". 
 <br><br>
 How does this app generate numbers?
+
 - It uses the odd and even numbers strategy.
 
 - It does not choose more than 2 consecutive numbers. The sequences 1,2,3 and 57,58,59 are definitely ones to avoid.

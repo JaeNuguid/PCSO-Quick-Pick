@@ -35,6 +35,11 @@ How does this app generate numbers?
 
 <br>
 Lastly, purchase more than one ticket, the more tickets purchased will definitely increase your odds of winning, and of course, always check the lottery results!
+<br><br>
+PCSO Lottery Quick Pick is also<br>
+<a href="https://www.amazon.com/dp//">
+  <img width="30%" src="http://rikaigames.com/bitbybit/img/Amazon-App-Store.png"/>
+</a>
 
 <br><br>
 Developer
